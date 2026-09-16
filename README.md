@@ -235,4 +235,4 @@ This repository serves as the official landing page for FocusWriter. The softwar
 **Get the most recent version of FocusWriter today!**
 
 ---
-**Last updated:** 2026-09-16 17:20:35 UTC
+**Last updated:** 2026-09-16 20:31:02 UTC
